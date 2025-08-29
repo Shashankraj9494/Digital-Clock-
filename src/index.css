@@ -1,0 +1,10 @@
+
+.clock-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background-color: #00ffff1e;
+    font-size: 100px;
+}
